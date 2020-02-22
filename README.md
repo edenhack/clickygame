@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Goals
+Create an application memory based clicker game.
+## Resulting issues
+Unable to address error with imgs not being linked to cards.
+
 ## Available Scripts
 
 In the project directory, you can run:
